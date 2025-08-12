@@ -22,3 +22,5 @@ seaborn                 0.13.2
 tzdata                  2025.2
 xgboost                 3.0.4
 ```
+
+Copyright Argonne UChicago LLC, 2025. All rights reserved.
