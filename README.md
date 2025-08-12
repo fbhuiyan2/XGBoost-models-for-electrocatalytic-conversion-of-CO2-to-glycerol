@@ -23,4 +23,6 @@ tzdata                  2025.2
 xgboost                 3.0.4
 ```
 
+Author: Fakhrul Hasan Bhuiyan
+
 Copyright Argonne UChicago LLC, 2025. All rights reserved.
